@@ -1,9 +1,8 @@
 # code-kata
-day-to-day challenges in JavaScript
 
 Resources:
 
-[CodeKata](http://codekata.com/)
+[Awesome Katas](https://github.com/gamontal/awesome-katas)
 
 [Leetcode](https://leetcode.com/)
 
