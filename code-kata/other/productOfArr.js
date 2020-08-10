@@ -7,4 +7,4 @@ function productOfArray (arr) {
 }
 
 productOfArray([1, 2, 3]) // returns 6
-productOfArray([4, 8, 100 // returns 3200
+productOfArray([4, 8, 100]) // returns 3200
